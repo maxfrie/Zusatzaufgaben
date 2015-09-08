@@ -1,3 +1,9 @@
+; int parseStr(char* src, char** p_dest);
+;
+; Funktion gibt die Summe der Zahlen im String zurück
+; und erstellt neuen String ohne enthaltende Zahlen. 
+; Pointer auf neuen String über p_dest (Call by Reference)
+;
 ; ebp+8: 	char* src
 ; ebp+12:	char** p_dest
 
