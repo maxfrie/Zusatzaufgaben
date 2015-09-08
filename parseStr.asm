@@ -1,3 +1,5 @@
+
+; Furz FUrz
 ; int parseStr(char* src, char** p_dest);
 ;
 ; Funktion gibt die Summe der Zahlen im String zurück
